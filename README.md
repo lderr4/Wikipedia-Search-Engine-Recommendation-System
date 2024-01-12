@@ -1,3 +1,3 @@
-![img](CSCI 4022 Final Project Report.png)
+[img](CSCI 4022 Final Project Report.png)
 
 
